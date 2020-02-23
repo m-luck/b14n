@@ -47,6 +47,7 @@ class App extends React.Component {
                     <p>For any technically scoped project, message us and we will help it off the ground.</p>
                     <p style={{"font-size": "8px"}}>Copyright B14N Consulting Group 2020</p>
                     </Paragraph>
+                <img style={{position: "fixed", left: -70, bottom: -40, "z-index": -100}} width="500" src="./im/hoom.png"/>
 
         </div>
     )}
